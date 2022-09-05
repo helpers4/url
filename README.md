@@ -19,3 +19,15 @@ A set of helpers for working with URLs.
 - [@helpers4/url](https://www.npmjs.com/package/@helpers4/url)
 
 ## Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/baxyz>
+            <img src=https://avatars.githubusercontent.com/u/7852177?v=4 width="100;"  alt=Bérenger/>
+            <br />
+            <sub style="font-size:14px"><b>Bérenger</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
