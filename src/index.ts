@@ -5,8 +5,10 @@
 
 /**
  * Library of URL helpers.
- *
- * @module @helpers4/url
+
+ * @packageDocumentation
+ * @module url
+ * @preferred
  */
 
 export * from './helper/url';
