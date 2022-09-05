@@ -32,15 +32,15 @@ export function removeEndingSlash(url: string): string {
  * ### Example (es module)
  * ```js
  * import { addLeadingSlash } from '@helpers4/url'
- * console.log(addLeadingSlash('/your/path/with/leading/slash'))
- * // => 'your/path/with/leading/slash'
+ * console.log(addLeadingSlash('your/path/without/leading/slash'))
+ * // => '/your/path/with/leading/slash'
  * ```
  *
  * ### Example (commonjs)
  * ```js
  * var addLeadingSlash = require('@helpers4/url').addLeadingSlash;
- * console.log(addLeadingSlash('/your/path/with/leading/slash'))
- * // => 'your/path/with/leading/slash'
+ * console.log(addLeadingSlash('your/path/without/leading/slash'))
+ * // => '/your/path/with/leading/slash'
  * ```
  *
  * @param url a valid URL
